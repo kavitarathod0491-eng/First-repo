@@ -1,2 +1,11 @@
-# First-repo
-My first GitHub repository 
+# Welcome to my GitHub 👩‍💻
+This is my first repository.
+I am Kavita Rathore, Engineering student (AIML).
+
+
+
+
+
+
+
+ 
